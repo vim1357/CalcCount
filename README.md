@@ -6,5 +6,5 @@ Second project
 - CSS
 
 # Screenshots
-![loading err](Screenshot_1)
-![loading err](Screenshot_2)
+![loading err](Screenshot_1.png)
+![loading err](Screenshot_2.png)
